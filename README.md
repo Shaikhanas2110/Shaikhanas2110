@@ -12,7 +12,10 @@ A Flutter developer with hands-on experience building cross platform mobile<br>a
 ![](https://streak-stats.demolab.com/?user=Shaikhanas2110&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shaikhanas2110&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shaikhanas2110&theme=calm&no-frame=false&no-bg=false&margin-w=4)
+
 ---
-[![](https://komarev.com/ghpvc/?username=Shaikhanas2110&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Shaikhanas2110&icon=3&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
